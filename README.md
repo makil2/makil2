@@ -12,9 +12,6 @@
   <a href="mailto:silvapinheirojoao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/makil2">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
 </p>
 
 ---
