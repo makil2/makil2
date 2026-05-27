@@ -80,15 +80,6 @@ Laboratório prático com **infraestrutura como código** na AWS.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=makil2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makil2&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
-
 <p align="center">
   💼 Aberto a oportunidades de <b>estágio em Cybersecurity / SOC / Cloud Security</b><br>
   📬 <a href="mailto:silvapinheirojoao@gmail.com">silvapinheirojoao@gmail.com</a>
