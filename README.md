@@ -12,6 +12,9 @@
   <a href="mailto:silvapinheirojoao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://tryhackme.com/p/makil2">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -23,7 +26,7 @@ Sou um profissional em transição para **Cybersecurity**, com foco em análise 
 - 🔐 Interesse principal: **SOC Analyst / Blue Team / Cloud Security**
 - ☁️ Trabalhando com **AWS** (CloudFormation, Step Functions)
 - 🐍 Desenvolvendo projetos com **Python** voltados para segurança
-- 📚 Sempre aprendendo — atualmente: **TryHackMe SOC Level 1 + Cisco Networking Essentials**
+- 📚 Atualmente estudando: **TryHackMe Cyber Security 101 + Cisco Networking Essentials**
 
 ---
 
@@ -35,7 +38,8 @@ Sou um profissional em transição para **Cybersecurity**, com foco em análise 
 | 🔒 Google Cybersecurity | Google / Coursera | 2025 |
 | ☁️ AWS CloudFormation (em andamento) | AWS | 2026 |
 | 🌐 Cisco Networking Essentials (em andamento) | Cisco | 2026 |
-| 🟩 TryHackMe Pre Security (92%) | TryHackMe | 2026 |
+| ✅ TryHackMe Pre Security (SEC0) | TryHackMe | 2026 |
+| 🟩 TryHackMe Cyber Security 101 (37%) | TryHackMe | 2026 |
 
 ---
 
@@ -51,7 +55,7 @@ Sou um profissional em transição para **Cybersecurity**, com foco em análise 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**Segurança:** Análise de Malware · Brute Force · SIEM · Detecção de Fraudes · Engenharia Social  
+**Segurança:** Análise de Malware · Brute Force · SIEM · Detecção de Fraudes  
 **Cloud:** AWS CloudFormation · AWS Step Functions · IAM  
 **Redes:** TCP/IP · Protocolos · Wireshark · Cisco Packet Tracer
 
@@ -60,20 +64,26 @@ Sou um profissional em transição para **Cybersecurity**, com foco em análise 
 ## 📂 Projetos em Destaque
 
 ### 🦠 [Desafio-Malware-Python](https://github.com/makil2/Desafio-Malware-Python)
-Simulação educativa de **Ransomware e Keylogger** desenvolvida em Python para estudo de ameaças.
+Simulação educativa de **Ransomware e Keylogger** desenvolvida em Python para estudo de ameaças.  
 `Python` `Malware Analysis` `Cybersecurity`
 
 ### 🔓 [Projeto-Ethical-Hacking](https://github.com/makil2/Projeto-Ethical-Hacking)
-**Brute Force** com Medusa e Kali Linux — estudo prático de técnicas ofensivas em ambiente controlado.
+**Brute Force** com Medusa e Kali Linux — estudo prático de técnicas ofensivas em ambiente controlado.  
 `Kali Linux` `Shell` `Penetration Testing`
 
 ### 📊 [Detecção de Fraude em Transações Financeiras](https://github.com/makil2/deteccao-fraude-transacoes-financeiras)
-Modelo de machine learning para **identificação de transações fraudulentas** usando Jupyter Notebook.
+Modelo de machine learning para **identificação de transações fraudulentas** usando Jupyter Notebook.  
 `Python` `Machine Learning` `Jupyter` `Data Science`
 
 ### ☁️ [AWS CloudFormation Lab](https://github.com/makil2/aws-cloudformation-lab)
-Laboratório prático com **infraestrutura como código** na AWS.
+Laboratório prático com **infraestrutura como código** na AWS.  
 `AWS` `CloudFormation` `IaC` `Cloud Security`
+
+---
+
+## 📊 Atividade no GitHub
+
+![Snake animation](https://github.com/makil2/makil2/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
